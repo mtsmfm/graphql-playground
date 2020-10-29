@@ -126,7 +126,7 @@
     "js-yaml": "^3.10.0",
     "json-stable-stringify": "^1.0.1",
     "keycode": "^2.1.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "lodash.debounce": "^4.0.8",
     "markdown-it": "^8.4.1",
     "marked": "^0.8.2",
