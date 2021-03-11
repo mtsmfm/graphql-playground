@@ -88,7 +88,7 @@
     "object-assign": "4.1.1",
     "promise": "8.0.1",
     "raw-loader": "4.0.0",
-    "react-dev-utils": "10.1.0",
+    "react-dev-utils": "11.0.4",
     "recursive-readdir": "2.2.2",
     "rimraf": "3.0.2",
     "source-map-loader": "0.2.4",
