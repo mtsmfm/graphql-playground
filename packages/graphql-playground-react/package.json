@@ -114,7 +114,7 @@
     "apollo-link-http": "^1.5.16",
     "apollo-link-ws": "^1.0.19",
     "calculate-size": "^1.1.1",
-    "codemirror": "^5.52.2",
+    "codemirror": "^5.58.2",
     "codemirror-graphql": "^0.12.0-alpha.5",
     "copy-to-clipboard": "^3.0.8",
     "cryptiles": "4.1.2",
